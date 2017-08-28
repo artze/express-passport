@@ -1,3 +1,5 @@
 # express-passport
 
-App built to test out user authentication features of passport npm
+A sample app built to test out user authentication features of passport npm
+
+`npm start` to start express server
